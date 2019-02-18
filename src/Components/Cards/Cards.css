@@ -1,0 +1,157 @@
+#background {
+    display: block;
+    object-fit: cover;
+    position: absolute;
+    z-index: -2;
+}
+
+#darken {
+    position: absolute;
+    z-index: -1;
+    background-color: var(--trans-black);
+}
+
+#home-card {
+    margin-left: 20px;
+    width: 513px;
+}
+
+#name {
+    font-size: 40px;
+    letter-spacing: 20px;
+}
+
+#under-name {
+    font-size: 20px;
+    font-weight: 300;
+    text-align: justify;
+    width: 493px;
+}
+
+#home-card-mobile {
+    margin-left: 2vw;
+    width: 80vw;
+}
+
+#name-mobile {
+    font-size: 8vw;
+    letter-spacing: 2vw;
+}
+
+#under-name-mobile, #disclaimer {
+    font-size: 3.5vw;
+    font-weight: 300;
+    text-align: justify;
+    width: 76vw;
+}
+
+#disclaimer {
+    margin-top: 5vw;
+}
+
+#name,
+#under-name,
+#name-mobile,
+#under-name-mobile,
+#follow-up-title,
+#read-down,
+#disclaimer,
+.follow-up-text,
+.follow-up-item,
+.footer-link {
+    color: var(--white);
+}
+
+#read-down {
+    position: absolute;
+    top: 88vh;
+    font-size: 12vh;
+}
+
+#learn-more,
+#read-down,
+.footer-link {
+    transition: color 0.25s ease-in-out;
+    cursor: pointer;
+}
+
+#read-down:hover,
+#learn-more:hover {
+    color: var(--grey);
+}
+
+#follow-up {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: var(--grey);
+    min-height: calc(100vh - 50px) !important;
+}
+
+#follow-up-title {
+    font-size: 30px;
+    margin: 60px 0 50px 8px;
+    letter-spacing: 2px;
+}
+
+#follow-up-div {
+    width: 1100px;
+}
+
+.follow-up-text, .follow-up-item {
+    letter-spacing: 1px;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.follow-up-text {
+    font-size: 16px;
+    margin: 10px;
+    line-height: 24px;
+}
+
+.follow-up-item {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+#footer {
+    margin-top: 12px;
+    margin-bottom: 15px;
+    width: calc(100vw - 17px);
+    display: flex;
+    justify-content: center;
+}
+
+.footer-link {
+    margin: 0 20px;
+    font-size: 20px   
+}
+
+.footer-link:hover {
+    color: var(--light-grey);
+}
+
+@media screen and (min-width: 850px) and (max-width: 1200px) {
+    #follow-up-div {
+        width: 800px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    #follow-up-div {
+        width: 600px;
+    }
+
+    #follow-up-title {
+        font-size: 25px !important;
+    }
+
+    .follow-up-text {
+        font-size: 14px !important;
+    }
+
+    .follow-up-item {
+        font-size:  13px !important;
+    }
+}

@@ -1,0 +1,73 @@
+#brand {
+    min-height: 100vh;
+    background: var(--grey);
+}
+
+#brand, #services {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#logo {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+}
+
+#sub-logo {
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+#sub-logo,
+#brand-title,
+.p_name,
+.p_logo,
+.brand-text {
+    color: var(--white);
+}
+
+.p_name, .p_logo {
+    font-family: var(--comfor-fam);
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.p_logo {
+    margin-left: 5px;
+    padding: 8px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: solid 8px var(--logo-blue);
+}
+
+#under-logo {
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    width: 800px;
+}
+
+#brand-title {
+    margin-left: 5px;
+    font-size: 40px;
+    letter-spacing: 10px;
+}
+
+.brand-text {
+    letter-spacing: 1px;
+    font-weight: 300;
+    text-align: justify;
+    font-size: 16px;
+    margin: 10px;
+    line-height: 24px;
+}
+
+@media screen and (max-width: 900px) {
+    #under-logo {
+        width: 600px !important;
+    }
+}

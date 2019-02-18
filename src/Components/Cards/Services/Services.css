@@ -1,0 +1,78 @@
+.software {
+    padding-top: 50px;
+}
+
+.service-card {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 50px);
+    width: calc(100vw - 17px);
+    background: var(--grey);
+    color: var(--white);
+}
+
+.odd-card {
+    background: var(--white) !important;
+    color: var(--grey) !important;
+}
+
+.service-board {
+    padding: 30px;
+    padding-bottom: 10px;
+}
+
+.bottom-board {
+    padding-bottom: 30px !important;
+}
+
+.service-big-title {
+    margin: 20px 150px;
+    font-size: 40px;
+    letter-spacing: 10px;
+    text-align: right;
+}
+
+.service-title {
+    margin-left: 9px;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+.service-text, .service-item {
+    letter-spacing: 1px;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.service-text {
+    max-width: 50vw;
+    font-size: 16px;
+    margin: 10px;
+    line-height: 24px;
+}
+
+.service-item {
+    max-width: 40vw;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+@media screen and (max-width: 1000px) {
+    .service-big-title {
+        margin: 15px 100px !important;
+    }
+
+    .service-title {
+        font-size: 25px !important;
+    }
+
+    .service-text {
+        max-width: 60vw;
+        font-size: 14px !important;
+    }
+
+    .service-item {
+        max-width: 50vw;
+        font-size: 13px !important;
+    }
+}

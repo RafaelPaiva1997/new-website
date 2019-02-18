@@ -1,0 +1,201 @@
+{
+    "pt": {
+        "nextlang": "en",
+        "homecard": {
+            "name": "RAFAEL PAIVA",
+            "desc": "Engenheiro de software focado em desenvolvimento comercial e freelancing. Sediando em Coimbra, Portugal, disponibilizo um largo conjunto de serviços na área da informação e tecnologia.",
+            "learn": "Descubra como o posso assistir."
+        },
+        "header": {
+            "links": ["home", "brand", "services"],
+            "home": "Rafael Paiva",
+            "brand": "Marca",
+            "services": "Serviços",
+            "projects": "Projectos",
+            "contacts": "Contactos"
+        },
+        
+        "aboutme": {
+            "title": "Soluções Compreensivas e Apoio Dedicado",
+            "p1": "Sou um Engenheiro Informático situado em Portugal. Comecei a trabalhar com as tecnologias da informação quando tinha catorze anos, e rapidamente me apaixonei pela área. Sou considerado um trabalhador bastante profissional, organizado e bem educado, motivo pelo qual decidi investir nesta área em particular para freelancing.",
+            "p2": "As ferramentas em que me tornei mais proficiente são C, Java, Javascript (NodeJS) e React, tendo também investido algum tempo em Python, Ruby, PHP, C#, SQL, MongoDB, e linguagem de Markup em geral.",
+            "p3": "Ao longo do tempo, reuni um conjunto diverso de habilidades técnicas tais como:",
+            "i1": "Instalação e configuração de hardware (i.e. Computadores, Cameras, Routers, Extenders, Impressoras, ...);",
+            "i2": "Intalação e configuração de software (i.e. Sistemas Opertivos, Programas Empresariais, Email, Mobile, ...);",
+            "i3": "Desenvolvimento de Software e Consultoria de Tecnologias de Informação;",
+            "i4": "Hosting, gestão e configuração de domínios;",
+            "i5": "Hosting, gestão e configuração de webmail;",
+            "i6": "Hosting, desenvolvimento e manutenção de websites;",
+            "i7": "Marketing digital e gestão de redes sociais;",
+            "i8": "Gestão de recursos humanos.",
+            "p4": "Email: info@paiva.it",
+            "p5": "Contacto: +351 918 768 932",
+            "l1": "Conheça a minha marca",
+            "l2": "Descubra os meus serviços",
+            "l3": "os meus projectos"
+        },
+        "brand": {
+            "title": "A MARCA",
+            "p1": "A marca Paiva IT a todos os serviços prestados por mim. O objectivo é dissociar os serviços da pessoa que os está a prestar. Isto contribui para um ambiente profissional entre mim e o cliente.",
+            "p2": "Associar esta marca com o meu trabalho também contribuí para a escalabilidade da mesma, o que facilita o crescimento de uma empresa, quando o mesmo se provar necessário."
+        },
+        "services": {
+            "software": "SOFTWARE",
+            "hardware": "HARDWARE",
+            "consulting": "CONSULTORIA",
+            "itmanagement": "IT MANAGEMENT"
+        },
+        "software": {
+            "t1": "Instalação e Configuração",
+            "t2": "Desenvolvimento e Manutenção",
+            "p1": "Eu providenciono apoio, remoto ou presencial, para tanto o setor privado como o comercial para os seguintes casos:",
+            "i1": "Instalação e reparação de sistemas operativos;",
+            "i2": "Instalação e configuração de software crítico;",
+            "i3": "Gestão de armazanamento em cloud e backup;",
+            "i4": "Configuração de email;",
+            "i5": "Gestão de licenciamento de software.",
+            "p2": "Este serviço cobre múltiplos Sistemas Operativos, tanto em Mobile como em Desktop.",
+            "p3": "Desenvolvo software par aos seguintes cenários:",
+            "i6": "Website / WebApp: desde uma simples página empresarial até uma complexa loja online;",
+            "i7": "Mobile App: adaptar websites para mobile ou criar uma aplicação de raíz;",
+            "i8": "Management Software: local ou online, perfeito para gestão de stock, movimentos, recursos humanos, etc...",
+            "i9": "System Integration: criar soluções de software adaptadas às necessidades do seu negócio!",
+            "p4": "O desenvolvimento de software incluí opções de manutenção, tanto antes como após a conclusão do projecto."
+        },
+        "hardware": {
+            "t1": "Configuração de Redes",
+            "t2": "Instalação de Periféricos",
+            "p1": "Configurar uma rede constituída por routers, extenders, ligações por cabo, servidores e periféricos.",
+            "p2": "Será efectuada uma análise da sua casa ou espaço de trabalho para recomendar a melhor configuração possível para cada caso.",
+            "p3": "Receba um relatório e manual de utilizador com toda a informação crítica relativa à configuração usada!",
+            "p4": "Eu providencio instalação e configuração dos seguintes periféricos:",
+            "i1": "Câmeras de vigilância / Sistemas CCTV;",
+            "i2": "Sistemas de armazenamento / Configurações RAID;",
+            "i3": "Equipamento próprio para servidores;",
+            "i4": "Impressoras / Scanners / Faxs;",
+            "i5": "Sistemas de som / Surrond;",
+            "i6": "Sistemas IPTV (TV através da internet);",
+            "i7": "Por favor consulte-me para casos específicos..."
+        },
+        "consulting": {
+            "t1": "Integração de Sistemas",
+            "t2": "Recursos Humanos",
+            "p1": "Eu providencio apoio e análise no processo de integrar o seu negócio com as tecnologias mais recentes e em todas as complicações associadas com este processo!",
+            "p2": "Receba uma análise personalizada do seu Modelo de Negócios e Fluxo de Sistema, em relação a estas tecnologias, com o objectivo de facilitar a análise das diferentes opções disponíveis!",
+            "p3": "Integre a sua gestão de recusos humanos com as mais recentes técnicas com o objectivo de melhorar a eficência do seu negócio!",
+            "p4": "Forme os seus funcionários em competências como gestão temporal, trabalho em cloud, pensamento analítico, controlo de qualidade, e muito mais...",
+            "p5": "Actualize a sua relação funcionário-gestor com ferramentas indicadas para colectar e analisar feedback dos mesmos."
+        },
+        "itmanagement": {
+            "t1": "Necessidades Web Comercias",
+            "t2": "Apoio IT Comercial",
+            "p1": "Eu forneço um conjunto de soluções para responder às necessidades web do seu negócio, tais como:",
+            "i1": "Hosting, gestão e configuração de domínios;",
+            "i2": "Hosting, gestão e configuração de webmail personalizado;",
+            "i3": "Hosting, desenvolvimento, integração e manutenção de websites;",
+            "i4": "Gestão de redes sociais e relação marca-cliente;",
+            "i5": "Recuperação / Transferência de gestão e suporte IT.",
+            "p2": "Eu presto apoio na área das Tecnologias da Informação, remoto ou presencial, a pequenas e médias Empresas, inclusive, apoio individual ao funcionário, manuais personalizados de software, gestão de serviços online, entre outros...",
+            "p3": "Se tiver alguma questão sobre um caso específico, por favor entre em contacto comigo!"
+        }
+    },
+    "en": {
+        "nextlang": "pt",
+        "homecard": {
+            "name": "RAFAEL PAIVA",
+            "desc": "Software engineer focused on comercial development and freelancing. Currently based in Coimbra, Portugal, I provide a complete range of information technology services.",
+            "learn": "Learn about how I can assist you."
+        },
+        "header": {
+            "links": ["home", "brand", "services"],
+            "home": "Rafael Paiva",
+            "brand": "Brand",
+            "services": "Services",
+            "projects": "Projects",
+            "contacts": "Contacts"
+        },
+        "aboutme": {
+            "title": "Comprehensive Solutions & Passionate Support",
+            "p1": "I'm a Computer Science Major based in Portugal. I've worked with IT since I was fourteen, and really grew a passion for it. I'm considered a very professional, organized and polite worker, which is why I've invested in this particular area for freelancing.",
+            "p2": "As a programmer, I've taken serious interest in C, Java, Javascript (NodeJS) and React, also investing some time onto technologies like Python, Ruby, PHP, C#, SQL, MongoDB, and Markup language in general.",
+            "p3": "Over time, I've picked up a diverse set of technical abilities such as:",
+            "i1": "Hardware installation & configuration (i.e. Computers, Cameras, Routers, Extenders, Printers, ...);",
+            "i2": "Software installation & configuration (i.e. OS, Business Programs, Email, Mobile, ...);",
+            "i3": "Software development & IT solutions consulting;",
+            "i4": "Domain hosting, management & configuration;",
+            "i5": "Webmail hosting, management & configuration;",
+            "i6": "Website development, hosting & maintance;",
+            "i7": "Digital marketing & social networking;",
+            "i8": "Human resources management.",
+            "p4": "Email: info@paiva.it",
+            "p5": "Phone: +351 918 768 932",
+            "l1": "Discover my brand",
+            "l2": "Find out more about my services",
+            "l3": "Check out my projects"
+        },
+        "brand": {
+            "title": "THE BRAND",
+            "p1": "Paiva IT is the brand I associate with all the services I provide. The objective of the brand is to dissociate the services from the person providing them. This contributes towards a professional enviroment between me and the client.",
+            "p2": "Associating this brand with my work also contributes towards it's scalability, making it easier to grow a company once it proves necessary."
+        },
+        "services": {
+            "software": "SOFTWARE",
+            "hardware": "HARDWARE",
+            "consulting": "CONSULTING",
+            "itmanagement": "IT MANAGEMENT"
+        },
+        "software": {
+            "t1": "Installation & Configuration",
+            "t2": "Development & Maintenance",
+            "p1": "I provide remote or on-site support for both the private and commercial sectors on the following cases:",
+            "i1": "Operating system installation & repair;",
+            "i2": "Critical software installation & configuration;",
+            "i3": "Backup & cloud management;",
+            "i4": "E-mail configuration;",
+            "i5": "Software licensing management.",
+            "p2": "This service extends across multiple Operating Systems both on Dekstop and Mobile!",
+            "p3": "I develop software for the following scenarios:",
+            "i6": "Website / WebApp: from a simple company page to a complex online shop;",
+            "i7": "Mobile App: adaptaing websites to mobile or creating an application from scratch;",
+            "i8": "Management Software: local or online, perfect for managing stock, deliveries, human resources, etc...",
+            "i9": "System Integration: create software solutions adaptaded to your business's necessities!",
+            "p4": "Software Development includes maintenance options, both before and after project conclusion."
+        },
+        "hardware": {
+            "t1": "Network Configuration",
+            "t2": "Peripherals Installation",
+            "p1": "Configure an entire network of routers, extenders, LAN connections, servers and peripherals.",
+            "p2": "I'll analyse your home or office space to recommend the best network configuration for each specific case.",
+            "p3": "Receive a report and user manual with all the critical information relative to the configuration used!",
+            "p4": "I provide installation & configuration of the following peripherals:",
+            "i1": "Surveillance Cameras / CCTV Systems;",
+            "i2": "Storage Systems / RAID Setup;",
+            "i3": "Server Equipment;",
+            "i4": "Printers / Scanners / Fax Machines;",
+            "i5": "Sound Systems / Surrond;",
+            "i6": "IPTV Systems;",
+            "i7": "Please consult me for specific cases..."
+        },
+        "consulting": {
+            "t1": "System Integration",
+            "t2": "Human Resources",
+            "p1": "I provide support and analysis on the process of integrating your business with the most recent technologies and all the setbacks that come with this type of change!",
+            "p2": "Receive a custom analysis of your Business Model and System Flow, in relation to this technologies, in order to facilitate the analysis of the different options avaible!",
+            "p3": "Integrate your Human Resources management with the most recent technics in order to improve your business's efficiency!",
+            "p4": "Teach your workers skills like time management, cloud working, analytical thinking, quality control, and more...",
+            "p5": "Update your worker-manager relationship with proper feedback tools and analysis."
+        },
+        "itmanagement": {
+            "t1": "Web Business Necessities",
+            "t2": "Business IT Support",
+            "p1": "I provide a complete list of solutions to answer your business's web necessities, such as:",
+            "i1": "Domain hosting, management & configuration;",
+            "i2": "Custom email service hosting, management & configuration;",
+            "i3": "Website hosting, management & integration;",
+            "i4": "Social Network & Customer Relationships management;",
+            "i5": "Recovery/Transfer of IT management support.",
+            "p2": "I provide remote or on-site IT support for small to medium sized Businesses including worker individual support, custom software guides composition, online services maintenance, and more...",
+            "p3": "If you have any questions about a specific case, please do send me a message!"
+        }
+    }
+}

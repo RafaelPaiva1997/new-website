@@ -1,0 +1,56 @@
+:root {
+    --white: white;
+    --grey: #191919;
+    --light-grey: #545c63;
+    --black: black;
+    --logo-blue: #0099cc;
+    --trans-black: rgba(0, 0, 0, 0.5);
+
+    --regular-fam: "Gravity", sans-serif;
+    --comfor-fam: "Comfortaa", sans-serif;
+}
+
+* {
+    outline: none;
+}
+
+body {
+    font-family: var(--regular-fam);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    user-select: none;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 400;
+}
+
+body,
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.fullscreen {
+    width: calc(100vw - 17px);
+    height: 100vh;
+}
+
+.fullscreen-mobile {
+    width: 100vw;
+    height: 100vh;
+}
+
+.dis-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

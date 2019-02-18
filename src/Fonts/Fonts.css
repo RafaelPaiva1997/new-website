@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Gravity";
+    font-weight: 300;
+    src: url('./Gravity-Book.otf');
+}
+
+@font-face {
+    font-family: "Gravity";
+    font-weight: 400;
+    src: url('./Gravity-Regular.otf');
+}
+
+@font-face {
+    font-family: "Gravity";
+    font-weight: 700;
+    src: url('./Gravity-Bold.otf');
+}
+
+@font-face {
+    font-family: "Comfortaa";
+    font-weight: 400;
+    src: url('./Comfortaa-Regular.ttf');
+}
+
+@font-face {
+    font-family: "Comfortaa";
+    font-weight: 700;
+    src: url('./Comfortaa-Bold.ttf');
+}

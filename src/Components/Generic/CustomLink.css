@@ -1,0 +1,32 @@
+.link {
+    color: var(--white);
+}
+
+.link_def {
+    color: var(--light-grey);
+}
+
+.link,
+.link_def {
+    text-decoration: none;
+    margin: 0 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    cursor: pointer;
+    transition: color 0.25s ease-in-out;
+}
+
+.link:hover,
+.active_link,
+.link_def:hover,
+.active_link_def {
+    color: black;
+}
+
+.active_link,
+.active_link_def {
+    cursor: default;
+    font-weight: 700;
+}
